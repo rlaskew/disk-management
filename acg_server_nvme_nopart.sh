@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# ACG cloud server with Amazon Linux 2 .. they add nvme1n1 or 2 drive for your
+# notes
+# 1. first tried -- ACG cloud server with Amazon Linux 2 .. they add nvme1n1 or 2 drive for your
+# 2. second tried -- ACG cloud server -- ubuntu 20.04 -- works the same
 
 ## from
 ## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
@@ -18,6 +20,7 @@
 
 # make director where you want new device to be mounted to
 # mkdir /data
+# chmod go+w /data
 
 # manually mount first
 # mount /dev/${NAME} /data
