@@ -5,6 +5,7 @@
 ## from
 ## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
 ## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/device_naming.html
+## https://www.tecmint.com/linux-file-system-explained/
 
 # Step 1: become root
 # sudo -i
