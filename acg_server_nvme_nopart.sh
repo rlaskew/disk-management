@@ -3,6 +3,7 @@
 # notes
 # 1. first tried -- ACG cloud server with Amazon Linux 2 .. they add nvme1n1 or 2 drive for your
 # 2. second tried -- ACG cloud server -- ubuntu 20.04 -- works the same
+# 3. third tried -- ACG cloud  server -- RHEL 8 -- works the same
 
 ## from
 ## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
